@@ -3,9 +3,9 @@ package com.engorgio.engorgiobottombar
 import android.content.Context
 import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
-import android.support.constraint.ConstraintLayout
-import android.support.transition.TransitionManager
-import android.support.v4.content.ContextCompat
+import androidx.constraintlayout.widget.ConstraintLayout
+import androidx.transition.TransitionManager
+import androidx.core.content.ContextCompat
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
